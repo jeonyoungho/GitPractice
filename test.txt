@@ -1,2 +1,2 @@
-alice: 1
-alice: 2
+main: 1
+main: 2
